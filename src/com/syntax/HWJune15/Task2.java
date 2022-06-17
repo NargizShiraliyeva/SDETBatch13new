@@ -4,9 +4,9 @@ Method should be available to all classes within your project and accessible by 
 public class Task2 {
 
     public static String str(String strg) {
-     String newStr= null;
+     String newStr=null;
      for (int i=strg.length()-1; i>=0; i--){
-         newStr +=strg.charAt(i);
+         newStr+=strg.charAt(i);
      }
      return newStr;
 
