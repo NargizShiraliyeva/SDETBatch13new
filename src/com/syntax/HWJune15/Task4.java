@@ -45,6 +45,6 @@ public class Task4 {
         Task4 taskPrivate = new Task4('A', 2022);
         Task4 taskProtected = new Task4("Hello", "Salam");
     }
-  
+
 }
 //second execution is in Task4Test class
